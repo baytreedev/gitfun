@@ -1,3 +1,0 @@
-# mars
-
-its red
